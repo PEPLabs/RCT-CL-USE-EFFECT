@@ -7,7 +7,7 @@
         {
           "methodName": "renders learn react link",
           "label": "Rendering Test",
-          "description": "Renders the App component and verifies that text matching 'learn react' appears in the document."
+          "description": "Checks that the App component renders content containing the text 'learn react'."
         }
       ]
     }
