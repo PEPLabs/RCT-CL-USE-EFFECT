@@ -1,0 +1,15 @@
+{
+  "type": "javascript",
+  "testFiles": [
+    {
+      "path": "src/App.test.js",
+      "testCases": [
+        {
+          "methodName": "renders learn react link",
+          "label": "Rendering Test",
+          "description": "Renders the App component and verifies that text matching 'learn react' appears in the document."
+        }
+      ]
+    }
+  ]
+}
